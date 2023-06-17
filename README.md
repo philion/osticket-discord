@@ -14,7 +14,6 @@ Originally forked from https://github.com/bibi21000/osticket-discord
 - A discord account
 
 ## Install
-----------
 1. Clone this repo or download the zip file and place the contents into your `include/plugins` folder.
 1. Now the plugin needs to be enabled & configured, so login to osTicket, select "Admin Panel" then "Manage -> Plugins" you should be seeing the list of currently installed plugins.
 1. Click on `Discord Notifier` and paste your Discord Webhook URL into the box (Discord setup instructions below). 
