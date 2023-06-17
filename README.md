@@ -1,12 +1,9 @@
-osTicket-discord
-================
 A plugin for [osTicket](https://osticket.com) which posts notifications to a [Discord](https://discordapp.com/) webhook.
 
-Originally forked from: [https://github.com/thammanna/osticket-slack](https://github.com/thammanna/osticket-slack) and
-[https://github.com/clonemeagain/osticket-slack](https://github.com/clonemeagain/osticket-slack).
+Originally forked from https://github.com/bibi21000/osticket-discord
 
-Info
-----
+## Info
+
 - Send notifications on ticket created
 - Manage alerts : tickets automatically closed
 - Reminder : tickets not answered are regulary displayed
