@@ -6,6 +6,6 @@ return array(
     'name' =>           'Discord notifier',
     'author' =>         'Sebastien GALLET',
     'description' =>    'Notify Discord on new ticket or new message.',
-    'url' =>            'https://github.com/bibi21000/osticket-discord',
+    'url' =>            'https://github.com/philion/osticket-discord',
     'plugin' =>         'discord.php:DiscordPlugin',        
 );
